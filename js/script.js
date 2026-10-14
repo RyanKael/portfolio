@@ -1,7 +1,7 @@
 // Preencha apenas os canais que deseja tornar públicos.
 const CONTACT = {
   email: "ryankael@hotmail.com",
-  whatsapp: "557499962143", // Código do país + DDD + número, somente dígitos.
+  whatsapp: "5574999962143", // Código do país + DDD + número, somente dígitos.
   linkedin: "https://www.linkedin.com/in/ryankael", // URL completa https://www.linkedin.com/in/...
   github: "https://github.com/RyanKael"
 };
